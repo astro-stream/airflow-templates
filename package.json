@@ -3,6 +3,7 @@
   "displayName": "Airflow Templates",
   "description": "Apache Airflow Snippets for Airflow Operators and basic dags.",
   "icon": "img/logo.png",
+  "repository": "https://github.com/astro-stream/airflow-templates",
   "version": "0.0.4",
   "engines": {
     "vscode": "^1.74.1"
