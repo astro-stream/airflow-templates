@@ -1,6 +1,6 @@
 
 # Function
-Code completion for all of the custom airflow providers operators from the airflow website: https://airflow.apache.org/
+Code completion for all of the custom Airflow Providers operators from the Airflow website: https://airflow.apache.org/
 
 <p><img src="https://raw.githubusercontent.com/astro-stream/airflow-templates/main/assets/airflow-templates.gif" alt="Airflow Templates"/></p>
 
