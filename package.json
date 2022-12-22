@@ -1,7 +1,7 @@
 {
   "name": "airflow-templates",
   "displayName": "Airflow Templates",
-  "description": "Apache Airflow Snippets for Airflow Operators and basic dags.",
+  "description": "Apache Airflow Snippets for all Airflow Provider Operators, Hooks, Sensors, Transfers, and Triggers along with some boilerplate DAGS.",
   "icon": "img/logo.png",
   "publisher": "GraysonStream",
   "repository": "https://github.com/astro-stream/airflow-templates",
@@ -9,7 +9,15 @@
   "engines": {
     "vscode": "^1.74.1"
   },
+  "keywords": [
+    "python",
+    "snippet",
+    "airflow",
+    "apache airflow",
+    "airflow providers"
+],
   "categories": [
+    "Programming Languages",
     "Snippets"
   ],
   "activationEvents": [
