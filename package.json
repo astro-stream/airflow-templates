@@ -5,7 +5,7 @@
   "icon": "img/logo.png",
   "publisher": "GraysonStream",
   "repository": "https://github.com/astro-stream/airflow-templates",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.74.1"
   },
